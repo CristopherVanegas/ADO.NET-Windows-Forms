@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|c:\\users\\usuario\\documents\\source\\ado.net-windows-forms\\nuestraprimeraconexionasqlserver\\nuestraprimeraconexionasqlserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|solutionrelative:nuestraprimeraconexionasqlserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|c:\\users\\usuario\\documents\\source\\ado.net-windows-forms\\nuestraprimeraconexionasqlserver\\nuestraprimeraconexionasqlserver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|solutionrelative:nuestraprimeraconexionasqlserver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|c:\\users\\usuario\\documents\\source\\ado.net-windows-forms\\nuestraprimeraconexionasqlserver\\nuestraprimeraconexionasqlserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|solutionrelative:nuestraprimeraconexionasqlserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\Form1.cs",
+              "RelativeDocumentMoniker": "NuestraPrimeraConexionASqlServer\\Form1.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\Form1.cs",
+              "RelativeToolTip": "NuestraPrimeraConexionASqlServer\\Form1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowCYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:30:33.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\App.config",
+              "RelativeDocumentMoniker": "NuestraPrimeraConexionASqlServer\\App.config",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\App.config",
+              "RelativeToolTip": "NuestraPrimeraConexionASqlServer\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-15T05:27:04.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\Form1.cs",
+              "RelativeDocumentMoniker": "NuestraPrimeraConexionASqlServer\\Form1.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\Form1.cs [Design]",
+              "RelativeToolTip": "NuestraPrimeraConexionASqlServer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:13:27.858Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
