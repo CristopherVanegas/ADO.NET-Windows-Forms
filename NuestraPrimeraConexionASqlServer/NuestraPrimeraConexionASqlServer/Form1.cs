@@ -21,23 +21,25 @@ namespace NuestraPrimeraConexionASqlServer
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            // Establece la coneccion con SQL Server
-            SqlConnection cn = new SqlConnection(ConfigurationManager.ConnectionStrings["cnx"].ConnectionString);
+            SQL.ListarConsultaSQL("SELECT IIDCLINICA, NOMBRE, DIRECCION\r\n\tFROM Clinica\r\n\tWHERE BHABILITADO = 1;", dgvClinica);
 
-            // Creo el comando y le paso la conexion
-            SqlCommand cmd = new SqlCommand("SELECT IIDCLINICA, NOMBRE, DIRECCION\r\n\tFROM Clinica\r\n\tWHERE BHABILITADO = 1;", cn);
+            //// Establece la coneccion con SQL Server
+            //SqlConnection cn = new SqlConnection(ConfigurationManager.ConnectionStrings["cnx"].ConnectionString);
 
-            // Le paso un adaptador para la consulta
-            SqlDataAdapter sda = new SqlDataAdapter(cmd);
+            //// Creo el comando y le paso la conexion
+            //SqlCommand cmd = new SqlCommand("SELECT IIDCLINICA, NOMBRE, DIRECCION\r\n\tFROM Clinica\r\n\tWHERE BHABILITADO = 1;", cn);
 
-            // Creo la tabla
-            DataTable tabla = new DataTable();
+            //// Le paso un adaptador para la consulta
+            //SqlDataAdapter sda = new SqlDataAdapter(cmd);
 
-            // Lleno el adaptador con los datos de la tabla
-            sda.Fill(tabla);
+            //// Creo la tabla
+            //DataTable tabla = new DataTable();
 
-            // Asigno al DataGridView la tabla
-            dgvClinica.DataSource = tabla;
+            //// Lleno el adaptador con los datos de la tabla
+            //sda.Fill(tabla);
+
+            //// Asigno al DataGridView la tabla
+            //dgvClinica.DataSource = tabla;
 
         }
     }
