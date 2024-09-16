@@ -21,14 +21,7 @@ namespace NuestraPrimeraConexionASqlServer
 
         private void frmListadoEspecialidad_Load(object sender, EventArgs e)
         {
-            SqlConnection cn = new SqlConnection(ConfigurationManager.ConnectionStrings["cnx"].ConnectionString);
-            SqlCommand cmd = new SqlCommand("uspListarEspecialidades", cn);
-            cmd.CommandType = CommandType.StoredProcedure;  // Especifico que es un SP y lo hace más rápido porque especifico su tipo
-            SqlDataAdapter sda = new SqlDataAdapter(cmd);
-            DataTable tabla = new DataTable();
-            sda.Fill(tabla);
-            dgvEspecialidad.DataSource = tabla;
-
+            SQL.ListarProcedureSQL("uspListarEspecialidades", dgvEspecialidad);
         }
     }
 }

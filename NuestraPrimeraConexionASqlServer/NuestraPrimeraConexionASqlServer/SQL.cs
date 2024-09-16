@@ -23,5 +23,15 @@ namespace NuestraPrimeraConexionASqlServer
             sda.Fill(tabla);
             grilla.DataSource = tabla;
         }
+
+        public static void ListarProcedureSQL(string procedure, DataGridView grilla)
+        {
+            SqlCommand cmd = new SqlCommand(procedure, cn);
+            cmd.CommandType = CommandType.StoredProcedure;  // Especifico que es un SP y lo hace más rápido porque especifico su tipo
+            SqlDataAdapter sda = new SqlDataAdapter(cmd);
+            DataTable tabla = new DataTable();
+            sda.Fill(tabla);
+            grilla.DataSource = tabla;
+        }
     }
 }
