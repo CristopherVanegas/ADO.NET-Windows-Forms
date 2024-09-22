@@ -26,14 +26,7 @@ namespace NuestraPrimeraConexionASqlServer
         private void btnBuscar_Click(object sender, EventArgs e)
         {
             string idclinica = txtIdClinica.Text;
-            SqlConnection cn = new SqlConnection(ConfigurationManager.ConnectionStrings["cnx"].ConnectionString);
-            SqlCommand cmd = new SqlCommand("uspFiltrarClinicaPorId", cn);
-            cmd.CommandType = CommandType.StoredProcedure;
-            cmd.Parameters.AddWithValue("@idclinica", idclinica);
-            DataTable tabla = new DataTable();
-            SqlDataAdapter sda = new SqlDataAdapter(cmd);
-            sda.Fill(tabla);
-            dgvClinica.DataSource = tabla;
+            SQL.filtradoDatos("uspFiltrarClinicaPorId", "@idclinica", idclinica, dgvClinica);
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)

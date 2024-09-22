@@ -12,12 +12,11 @@ namespace NuestraPrimeraConexionASqlServer
 {
     public class SQL
     {
-        private static SqlConnection cn = new SqlConnection(ConfigurationManager.ConnectionStrings["cnx"].ConnectionString);
+        private static readonly SqlConnection cn = new SqlConnection(ConfigurationManager.ConnectionStrings["cnx"].ConnectionString);
         
         public static void ListarConsultaSQL(string consulta, DataGridView grilla)
         {
             SqlCommand cmd = new SqlCommand(consulta, cn);
-            // cmd.CommandType = CommandType.StoredProcedure;  // Especifico que es un SP y lo hace más rápido porque especifico su tipo
             SqlDataAdapter sda = new SqlDataAdapter(cmd);
             DataTable tabla = new DataTable();
             sda.Fill(tabla);
@@ -30,6 +29,16 @@ namespace NuestraPrimeraConexionASqlServer
             cmd.CommandType = CommandType.StoredProcedure;  // Especifico que es un SP y lo hace más rápido porque especifico su tipo
             SqlDataAdapter sda = new SqlDataAdapter(cmd);
             DataTable tabla = new DataTable();
+            sda.Fill(tabla);
+            grilla.DataSource = tabla;
+        }
+        public static void filtradoDatos(string nombreProcedure, string nombreParametro, string valorParametro, DataGridView grilla)
+        {
+            SqlCommand cmd = new SqlCommand(nombreProcedure, cn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue(nombreParametro, valorParametro);
+            DataTable tabla = new DataTable();
+            SqlDataAdapter sda = new SqlDataAdapter(cmd);
             sda.Fill(tabla);
             grilla.DataSource = tabla;
         }
