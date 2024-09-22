@@ -47,6 +47,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmConsultarMedicamentoPorFormaFarmaceutica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultarMedicamentoPorFormaFarmaceutica.Designer.cs">
+      <DependentUpon>frmConsultarMedicamentoPorFormaFarmaceutica.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmListadoClinica.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SQL.cs" />
+    <EmbeddedResource Include="frmConsultarMedicamentoPorFormaFarmaceutica.resx">
+      <DependentUpon>frmConsultarMedicamentoPorFormaFarmaceutica.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmListadoClinica.resx">
       <DependentUpon>frmListadoClinica.cs</DependentUpon>
     </EmbeddedResource>

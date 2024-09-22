@@ -42,5 +42,17 @@ namespace NuestraPrimeraConexionASqlServer
             sda.Fill(tabla);
             grilla.DataSource = tabla;
         }
+
+        public static void llenarComboBox(string nombreProcedure, ComboBox combo, string displayMember, string valueMember)
+        {
+            SqlCommand cmd = new SqlCommand("uspComboFormaFarmaceutica", cn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            DataTable tabla = new DataTable();
+            SqlDataAdapter sda = new SqlDataAdapter(cmd);
+            sda.Fill(tabla);
+            combo.DataSource = tabla;
+            combo.DisplayMember = displayMember;
+            combo.ValueMember = valueMember;
+        }
     }
 }
