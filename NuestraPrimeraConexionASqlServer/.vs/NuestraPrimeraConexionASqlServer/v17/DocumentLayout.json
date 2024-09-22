@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|c:\\users\\usuario\\documents\\source\\ado.net-windows-forms\\nuestraprimeraconexionasqlserver\\nuestraprimeraconexionasqlserver\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|solutionrelative:nuestraprimeraconexionasqlserver\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\nuestraprimeraconexionasqlserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|solutionrelative:nuestraprimeraconexionasqlserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|c:\\users\\usuario\\documents\\source\\ado.net-windows-forms\\nuestraprimeraconexionasqlserver\\nuestraprimeraconexionasqlserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|solutionrelative:nuestraprimeraconexionasqlserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\nuestraprimeraconexionasqlserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|solutionrelative:nuestraprimeraconexionasqlserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\nuestraprimeraconexionasqlserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|solutionrelative:nuestraprimeraconexionasqlserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|c:\\users\\usuario\\documents\\source\\ado.net-windows-forms\\nuestraprimeraconexionasqlserver\\nuestraprimeraconexionasqlserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|solutionrelative:nuestraprimeraconexionasqlserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|c:\\users\\usuario\\documents\\source\\ado.net-windows-forms\\nuestraprimeraconexionasqlserver\\nuestraprimeraconexionasqlserver\\frmlistadoespecialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|solutionrelative:nuestraprimeraconexionasqlserver\\frmlistadoespecialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\nuestraprimeraconexionasqlserver\\frmlistadoespecialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|solutionrelative:nuestraprimeraconexionasqlserver\\frmlistadoespecialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\nuestraprimeraconexionasqlserver\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|solutionrelative:nuestraprimeraconexionasqlserver\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,75 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\Program.cs",
               "RelativeDocumentMoniker": "NuestraPrimeraConexionASqlServer\\Program.cs",
               "ToolTip": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\Program.cs",
               "RelativeToolTip": "NuestraPrimeraConexionASqlServer\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T01:27:58.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "SQL.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\SQL.cs",
               "RelativeDocumentMoniker": "NuestraPrimeraConexionASqlServer\\SQL.cs",
               "ToolTip": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\SQL.cs",
               "RelativeToolTip": "NuestraPrimeraConexionASqlServer\\SQL.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAwwCAAAAAcAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T01:12:05.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmListadoEspecialidad.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\frmListadoEspecialidad.cs",
-              "RelativeDocumentMoniker": "NuestraPrimeraConexionASqlServer\\frmListadoEspecialidad.cs",
-              "ToolTip": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\frmListadoEspecialidad.cs",
-              "RelativeToolTip": "NuestraPrimeraConexionASqlServer\\frmListadoEspecialidad.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBcAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T06:01:19.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmListadoEspecialidad.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\frmListadoEspecialidad.cs",
-              "RelativeDocumentMoniker": "NuestraPrimeraConexionASqlServer\\frmListadoEspecialidad.cs",
-              "ToolTip": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\frmListadoEspecialidad.cs [Design]",
-              "RelativeToolTip": "NuestraPrimeraConexionASqlServer\\frmListadoEspecialidad.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T16:02:32.931Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\Form1.cs",
               "RelativeDocumentMoniker": "NuestraPrimeraConexionASqlServer\\Form1.cs",
               "ToolTip": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\Form1.cs",
               "RelativeToolTip": "NuestraPrimeraConexionASqlServer\\Form1.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBcAAACCAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwCkAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T05:30:33.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\Form1.cs",
               "RelativeDocumentMoniker": "NuestraPrimeraConexionASqlServer\\Form1.cs",
