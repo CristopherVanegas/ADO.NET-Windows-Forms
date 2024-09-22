@@ -23,5 +23,12 @@ namespace NuestraPrimeraConexionASqlServer
         {
             SQL.ListarProcedureSQL("uspListarEspecialidades", dgvEspecialidad);
         }
+
+        private void eventoFiltrar(object sender, EventArgs e)
+        {
+            string nombre = txtEspecialidad.Text;
+            SQL.filtradoDatos("uspListarEspecialidadesPorNombre", "@nombre", nombre, dgvEspecialidad);
+
+        }
     }
 }

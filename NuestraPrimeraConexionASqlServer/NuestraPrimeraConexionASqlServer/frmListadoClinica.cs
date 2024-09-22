@@ -6,9 +6,9 @@ using System.Data.SqlClient;
 
 namespace NuestraPrimeraConexionASqlServer
 {
-    public partial class Form1 : Form
+    public partial class frmListadoClinica : Form
     {
-        public Form1()
+        public frmListadoClinica()
         {
             InitializeComponent();
         }

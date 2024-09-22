@@ -1,6 +1,6 @@
 ﻿namespace NuestraPrimeraConexionASqlServer
 {
-    partial class Form1
+    partial class frmListadoClinica
     {
         /// <summary>
         /// Required designer variable.

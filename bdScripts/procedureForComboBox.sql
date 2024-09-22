@@ -1,0 +1,12 @@
+USE Medico
+GO
+
+CREATE PROCEDURE uspComboFormaFarmaceutica
+AS
+BEGIN
+	SELECT IIDFORMAFARMACEUTICA, NOMBRE
+	FROM FormaFarmaceutica
+	WHERE BHABILITADO = 1;
+END
+
+EXEC uspComboFormaFarmaceutica;
