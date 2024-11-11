@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\nuestraprimeraconexionasqlserver\\frmconsultarmedicamentoporformafarmaceutica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|solutionrelative:nuestraprimeraconexionasqlserver\\frmconsultarmedicamentoporformafarmaceutica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|c:\\users\\usuario\\documents\\source\\ado.net-windows-forms\\nuestraprimeraconexionasqlserver\\nuestraprimeraconexionasqlserver\\frmlistadodoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|solutionrelative:nuestraprimeraconexionasqlserver\\frmlistadodoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|c:\\users\\usuario\\documents\\source\\ado.net-windows-forms\\nuestraprimeraconexionasqlserver\\nuestraprimeraconexionasqlserver\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|solutionrelative:nuestraprimeraconexionasqlserver\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|c:\\users\\usuario\\documents\\source\\ado.net-windows-forms\\nuestraprimeraconexionasqlserver\\nuestraprimeraconexionasqlserver\\frmlistadodoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|solutionrelative:nuestraprimeraconexionasqlserver\\frmlistadodoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|c:\\users\\usuario\\documents\\source\\ado.net-windows-forms\\nuestraprimeraconexionasqlserver\\nuestraprimeraconexionasqlserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\nuestraprimeraconexionasqlserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|solutionrelative:nuestraprimeraconexionasqlserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,8 +22,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmListadoDoctor.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\frmListadoDoctor.cs",
+              "RelativeDocumentMoniker": "NuestraPrimeraConexionASqlServer\\frmListadoDoctor.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\frmListadoDoctor.cs",
+              "RelativeToolTip": "NuestraPrimeraConexionASqlServer\\frmListadoDoctor.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:21:01.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmListadoDoctor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\frmListadoDoctor.cs",
+              "RelativeDocumentMoniker": "NuestraPrimeraConexionASqlServer\\frmListadoDoctor.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\frmListadoDoctor.cs [Design]",
+              "RelativeToolTip": "NuestraPrimeraConexionASqlServer\\frmListadoDoctor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:18:54.109Z",
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -32,35 +57,9 @@
               "RelativeDocumentMoniker": "NuestraPrimeraConexionASqlServer\\Program.cs",
               "ToolTip": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\Program.cs",
               "RelativeToolTip": "NuestraPrimeraConexionASqlServer\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABLAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-22T22:47:15.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SQL.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\SQL.cs",
-              "RelativeDocumentMoniker": "NuestraPrimeraConexionASqlServer\\SQL.cs",
-              "ToolTip": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\SQL.cs",
-              "RelativeToolTip": "NuestraPrimeraConexionASqlServer\\SQL.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowDQAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T22:39:29.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmConsultarMedicamentoPorFormaFarmaceutica.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\frmConsultarMedicamentoPorFormaFarmaceutica.cs",
-              "RelativeDocumentMoniker": "NuestraPrimeraConexionASqlServer\\frmConsultarMedicamentoPorFormaFarmaceutica.cs",
-              "ToolTip": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\frmConsultarMedicamentoPorFormaFarmaceutica.cs",
-              "RelativeToolTip": "NuestraPrimeraConexionASqlServer\\frmConsultarMedicamentoPorFormaFarmaceutica.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T22:35:59.087Z",
               "EditorCaption": ""
             }
           ]

@@ -15,7 +15,14 @@ namespace NuestraPrimeraConexionASqlServer
 
         private void frmConsultarMedicamentoPorFormaFarmaceutica_Load(object sender, EventArgs e)
         {
-            SQL.llenarComboBox("uspComboFormaFarmaceutica", cboFormaFarmaceutica, "NOMBRE", "IIDFORMAFARMACEUTICA");
+            SQL.llenarComboBox("uspComboFormaFarmaceutica", cboFormaFarmaceutica, "NOMBRE");
+            SQL.ListarProcedureSQL("uspListarMedicamentos", dgvMedicamentos);
+        }
+
+        private void eventoFiltrar(object sender, EventArgs e)
+        {
+            string idForma = cboFormaFarmaceutica.SelectedValue.ToString();
+            SQL.filtradoDatos("uspConsultarMedicamentosPorFormaFarmaceutica", "@IIDFORMAFARMACEUTICA", idForma, dgvMedicamentos);
         }
     }
 }
