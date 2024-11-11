@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|solutionrelative:nuestraprimeraconexionasqlserver\\frmlistadodoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|c:\\users\\usuario\\documents\\source\\ado.net-windows-forms\\nuestraprimeraconexionasqlserver\\nuestraprimeraconexionasqlserver\\frmlistadodoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\nuestraprimeraconexionasqlserver\\frmlistadodoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E8354A1C-F683-4965-8DD6-5EA23667DB94}|NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer.csproj|solutionrelative:nuestraprimeraconexionasqlserver\\frmlistadodoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "NuestraPrimeraConexionASqlServer\\frmListadoDoctor.cs",
               "ToolTip": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\frmListadoDoctor.cs",
               "RelativeToolTip": "NuestraPrimeraConexionASqlServer\\frmListadoDoctor.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T00:21:01.446Z",
               "EditorCaption": ""
@@ -46,8 +46,7 @@
               "ToolTip": "C:\\Users\\usuario\\Documents\\source\\ADO.NET-Windows-Forms\\NuestraPrimeraConexionASqlServer\\NuestraPrimeraConexionASqlServer\\frmListadoDoctor.cs [Design]",
               "RelativeToolTip": "NuestraPrimeraConexionASqlServer\\frmListadoDoctor.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T00:18:54.109Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-11T00:18:54.109Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "NuestraPrimeraConexionASqlServer\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T22:47:15.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T22:47:15.748Z"
             }
           ]
         }
